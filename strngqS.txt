@@ -1,0 +1,24 @@
+1. check if string is palindrome or not..?
+reverse-string_name[::-1]
+
+2. st = "brainmentors123AndSkillrisers"
+123-remove include=space
+
+3.st = "brain,men,tors.123.And,Skill,risers."
+ .->,  and ,->.
+
+4.st = "This     is    the    python language"
+print the string of the given string which has even length..
+
+5.Avoid all spaces from the string..
+
+6. st_1 = HloMam
+st_2 = Shweta , add st_2 in the middle of the st_1.
+output = HloShwetaMam
+
+7.st_1 = HloMam
+st_2 = Shweta
+output = HSMema
+
+
+
