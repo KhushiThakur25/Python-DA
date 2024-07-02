@@ -1,0 +1,11 @@
+DSA QUESTIONS OF LISTS IN PYTHON:
+1.Largest element in lists
+2.Second largest element in lists
+3.Span of lists(max - min)
+4.subtraction of lists
+5.check if lists is sorted or not
+6.Pair sum
+7.Rotate lists by one
+8.Rotate lists by k
+9.Remove duplicate from sorted lists
+10.multiplication of matrix
