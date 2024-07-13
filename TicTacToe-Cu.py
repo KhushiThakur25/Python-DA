@@ -26,11 +26,6 @@ def cpu_fun(ch):
     else:
         positions[pos-1] = ch
         occupied.append(pos)
-def draw():
-    if len(occupied) == 9:
-        print("It's a draw!")
-        return True
-    
         
         
 def check_winner():
@@ -61,16 +56,13 @@ def main():
         if winner:
             print(f"Congratulations !!{winner} win the game..")
             break
-        if draw():
-            break
+        
         cpu_fun(cpu_ch)
         gameboard()
         winner = check_winner()
         if winner:
             print(f"Congratulations !!{winner} win the game..")
             break
-        if draw():
-            break
-
+        
 main()
 
